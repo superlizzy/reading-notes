@@ -15,6 +15,8 @@ In college I volunteered to create a website for a non-proft in Chicago, [GirlFo
 - [GitHub Portfolio](https://github.com/superlizzy)
 - [Email](mailto:superlizzy@gmail.com)
 
+# Assignments:
+
 ### What is "growth mindset"?
 
 Growth mindset is approaching challenges with curiosity and a willingness to fail. 
@@ -23,3 +25,7 @@ Growth mindset is approaching challenges with curiosity and a willingness to fai
 1. Fail fast and often.
 2. Learn from others rather than comparing yourself to others.
 3. Approach ideas and team work with "yes, and" instead of "no."
+
+## Reading Notes:
+[x] [Lesson 1: Learning Markdown](https://superlizzy.github.io/reading-notes/01learningmarkdown.md)
+[ ] More coming soon...
