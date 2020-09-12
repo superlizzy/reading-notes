@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+#Hi, I'm Liz.#
 
-You can use the [editor on GitHub](https://github.com/superlizzy/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Bio:** I made my first Geocities website when I was 9 as a tribute to Hanson, the Backstreet Boys, and Britney Spears. I was the homeschooled daughter of a computer programmer with a lot of time on my hands, and I learned HTML using Microsoft FrontPage (and a lot of trial and error). When I was in my early teens, my parents bought me my first domain name for Christmas (soulfrog.com -- I no longer own it). This was before Facebook and MySpace, and blogging was new. My website was mainly a blog, with a big font collection available for download. I changed the layout constantly, and eventually used Notepad and an FTP client instead of FrontPage. I didn't know CSS, though, so when I changed the layout it involved editing every single page! Eventually I was introduced to the life-changing magic of Cascading Style Sheets, which made changing the design of my website *so much* easier.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In college I volunteered to create a website for a non-proft in Chicago, [GirlForward](http://girlforward.org) (they have since updated their website many times). I used this as an opportunity to push myself to learn WordPress, and I created a custom theme for that site. I have used WordPress as my go-to CMS ever since. These days I generally start with an existing, responsive theme that I can customize with CSS and plugins. 
 
-### Markdown
+**Recent Work:**
+- [Minnie Vacay](http://minnievacay.com)
+- [Batterson Media](http://battersonmedia.com)
+- [Traci Lynn Life Coaching](http://coachedbytraci.com)
+- [CommUnity Crisis Services and Food Bank](http://builtbycommunity.org)
+- [IowaCrisisChat.org](http://iowacrisischat.org)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Contact:**
+[GitHub Portfolio](https://github.com/superlizzy)
+[Email](mailto:superlizzy@gmail.com)
 
-```markdown
-Syntax highlighted code block
+###What is "growth mindset"?###
+Growth mindset is approaching challenges with curiosity and a willingness to fail. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/superlizzy/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#####REMINDERS...#####
+1. Fail fast and often.
+2. Learn from others rather than comparing yourself to others.
+3. Approach ideas and team work with "yes, and" instead of "no."
