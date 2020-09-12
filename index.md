@@ -12,8 +12,8 @@ In college I volunteered to create a website for a non-proft in Chicago, [GirlFo
 - [IowaCrisisChat.org](http://iowacrisischat.org)
 
 **Contact:**
-[GitHub Portfolio](https://github.com/superlizzy)
-[Email](mailto:superlizzy@gmail.com)
+- [GitHub Portfolio](https://github.com/superlizzy)
+- [Email](mailto:superlizzy@gmail.com)
 
 ### What is "growth mindset"?
 
