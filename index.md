@@ -28,5 +28,5 @@ Growth mindset is approaching challenges with curiosity and a willingness to fai
 
 ## Reading Notes:
 - [Lesson 1: Learning Markdown](https://superlizzy.github.io/reading-notes/01learningmarkdown)
-- [Lesson 2: The Coder's Computer](https://superlizzy.github.io/reading-notes/02coderscomputer.md)
+- [Lesson 2: The Coder's Computer](https://superlizzy.github.io/reading-notes/02coderscomputer)
 - More coming soon...
