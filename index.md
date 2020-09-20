@@ -1,5 +1,6 @@
 -----
 ## Reading Notes:
+
 - [Lesson 1a: Growth Mindset](https://superlizzy.github.io/reading-notes/01growthmindset)
 - [Lesson 1b: Learning Markdown](https://superlizzy.github.io/reading-notes/01learningmarkdown)
 - [Lesson 2: The Coder's Computer](https://superlizzy.github.io/reading-notes/02coderscomputer)
