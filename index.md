@@ -5,7 +5,7 @@
 - [Lesson 1a: Growth Mindset](https://superlizzy.github.io/reading-notes/01growthmindset)
 - [Lesson 1b: Learning Markdown](https://superlizzy.github.io/reading-notes/01learningmarkdown)
 - [Lesson 2: The Coder's Computer](https://superlizzy.github.io/reading-notes/02coderscomputer)
-- [Lesson 3: A-C-P](/03acp)
+- [Lesson 3: A-C-P](/reading-notes/03acp)
 - More coming soon...
 
 -----
