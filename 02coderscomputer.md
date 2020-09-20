@@ -6,7 +6,7 @@ A **text editor** is what web developers use to write their code. There are many
 
 1. **Code completion** - Closing tags and brackets automatically appear as you type, to ensure you never forget to close the section of code you're working on.
 2. **Syntax highlighting** - Different types of code are given a different text color to easily distinguish between them.
-3. **Themes** - You can change the background color and other visual settings of your cody to reduce eye strain.
+3. **Themes** - You can change the background color and other visual settings of your code to reduce eye strain.
 4. **Extensions** - You can download a variety of additional features for your third-party text editor that will make it easier for you to code.
 
 Although there is no right or wrong answer to the question of, "Which text editor should I choose?," it's important to research the features and capabilities so you can code as quickly and accurately as possible.
@@ -27,3 +27,5 @@ Command | What it stands for | What it does
 **file _[path]_** | *File Type* | View the file type of a certain file by indicating it instead of **[path]**. For instance, if I wanted to see the file type of "01.jpg" I would enter `file 01.jpg` while in that directory. OR, I could enter the full path from any directory, `file /home/Documents/01.jpg`
 
 (Source: [Ryans Tutorials](https://ryanstutorials.net/linuxtutorial/commandline.php))
+
+[Back to Home](https://superlizzy.github.io/reading-notes/)
