@@ -1,4 +1,4 @@
-## 01 - Learning Markdown
+# 01 - Learning Markdown
 
 #### Reading Notes
 
@@ -21,16 +21,16 @@ Italic | `* *` or `_ _` | **`*This is italic text.*`** | *This is italic text.*
 Strikethrough | `~~ ~~` | **`~~This is strikethrough text.~~`** | ~~This is strikethrough text~~
 
 
-#### Bulleted List:
+#### Unordered List:
 Use `- ` or `* ` before each item in your list. For example, this: 
 
 ```
-- This is a bulleted list.
+- This is an unordered list.
 - This is another item.
 ```
 Will look like this:
 
-- This is a bulleted list.
+- This is a unordered list.
 - This is another item.
 
 #### Numbered List:
@@ -54,3 +54,5 @@ Will look like this:
 #### #### Heading 4
 ##### ##### Heading 5
 ###### ###### Heading 6
+
+[Back to Home](https://superlizzy.github.io/reading-notes/)
