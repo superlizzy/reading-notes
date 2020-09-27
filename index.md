@@ -7,7 +7,7 @@
 - [Lesson 2: The Coder's Computer](https://superlizzy.github.io/reading-notes/02coderscomputer)
 - [Lesson 3: A-C-P](/reading-notes/03acp)
 - [Lesson 4: Structure Web Pages with HTML](/reading-notes/04html)
-- [Lesson 5: Designing Web Pages with CSS](/reading-notes/06css.html)
+- [Lesson 5: Designing Web Pages with CSS](/reading-notes/05css.html)
 - More coming soon...
 
 -----
