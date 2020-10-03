@@ -1,5 +1,3 @@
------
-
 ## Reading Notes:
 
 - [Lesson 1a: Growth Mindset](https://superlizzy.github.io/reading-notes/01growthmindset)
@@ -10,8 +8,6 @@
 - [Lesson 5: Designing Web Pages with CSS](/reading-notes/05css.html)
 - [Lesson 6: Dynamic Web Pages with JavaScript](/reading-notes/06javascript.html)
 - More coming soon...
-
------
 
 # Hi, I'm Liz.
 
