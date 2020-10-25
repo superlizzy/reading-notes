@@ -9,6 +9,7 @@
 - [Lesson 6a: Dynamic Web Pages with JavaScript](/reading-notes/06javascript.html)
 - [Lesson 6b: How Do Computers Work?](/reading-notes/06computer.html)
 - [Lesson 7: Programming with JavaScript](/reading-notes/07javascript.html)
+- [Lesson 8: Operators & Loops](/reading-notes/08operatorsloops.html)
 
 - More coming soon...
 
